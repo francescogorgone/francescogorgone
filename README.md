@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco Gorgone</h1>
-<h3 align="center">CS student from Italy 🇮🇹</h3>
+<h3 align="center">CS & Electronics Engineering student from Italy 🇮🇹</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
